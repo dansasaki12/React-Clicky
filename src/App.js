@@ -10,7 +10,7 @@ import characters from "./characters.json";
 class App extends Component {
   state = {
     guessArray: [],
-    message: "Click an image to begin!",
+    message: "Click a car to begin!",
     score: 0,
     topScore: 0,
     shake: 0
