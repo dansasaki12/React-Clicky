@@ -4,7 +4,7 @@ import "./Footer.css";
 // Footer component
 const Footer = props => (
     <div class="footer-copyright py-3 text-center text-white">
-        Clicky Game!
+        Clicky Car Game!
     </div>
 );
 
