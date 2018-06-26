@@ -1,50 +1,50 @@
 [
     {
       "id": 1,
-      "image": "/clicky/images//325i.jpg"
+      "image": "./images/325i.jpg"
     },
     {
       "id": 2,
-      "image": "/clicky/images//bumblebee.jpg"
+      "image": "./images//bumblebee.jpg"
     },
     {
       "id": 3,
-      "image": "/clicky/images//bus.jpg"
+      "image": "./images//bus.jpg"
     },
     {
       "id": 4,
-      "image": "/clicky/images//C63.jpg"
+      "image": "./images//C63.jpg"
     },
     {
       "id": 5,
-      "image": "/clicky/images//Challenger.jpg"
+      "image": "./images//Challenger.jpg"
     },
     {
       "id": 6,
-      "image": "/clicky/images//challenger1.jpg"
+      "image": "./images//challenger1.jpg"
     },
     {
       "id": 7,
-      "image": "/clicky/images//cuba.jpg"
+      "image": "./images//cuba.jpg"
     },
     {
       "id": 8,
-      "image": "/clicky/images//Fiat.jpg"
+      "image": "./images//Fiat.jpg"
     },
     {
       "id": 9,
-      "image": "/clicky/images//FRS.jpg"
+      "image": "./images//FRS.jpg"
     },
     {
       "id": 10,
-      "image": "/clicky/images//gtr.jpg"
+      "image": "./images//gtr.jpg"
     },
     {
       "id": 11,
-      "image": "/clicky/images//mustang.jpg"
+      "image": "./images//mustang.jpg"
     },
     {
       "id": 12,
-      "image": "/clicky/images//wrx.jpg"
+      "image": "./images//wrx.jpg"
     }
   ]

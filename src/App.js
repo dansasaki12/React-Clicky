@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import CharacterCard from "./components/CharacterCard/CharacterCard.js";
 import Wrapper from "./components/Wrapper/Wrapper.js";
@@ -51,8 +50,6 @@ class App extends Component {
           score={this.state.score}
           topScore={this.state.topScore} />
         <Jumbotron />
-        {/* Use "reshake" to shake the page on a wrong answer */}
-        
           <Wrapper>
             {characters
               .sort((a, b) => 0.5 - Math.random())
@@ -63,7 +60,6 @@ class App extends Component {
                   key={randomCard.id}
                   image={randomCard.image} />))}
           </Wrapper>
-        
         <Footer />
       </div>
     );
