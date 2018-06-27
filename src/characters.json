@@ -1,50 +1,50 @@
 [
     {
       "id": 1,
-      "image": "./images/325i.jpg"
+      "image": "./images/windy.gif"
     },
     {
       "id": 2,
-      "image": "./images//bumblebee.jpg"
+      "image": "./images//dance.gif"
     },
     {
       "id": 3,
-      "image": "./images//bus.jpg"
+      "image": "./images//eyebrows.gif"
     },
     {
       "id": 4,
-      "image": "./images//C63.jpg"
+      "image": "./images//eyes.gif"
     },
     {
       "id": 5,
-      "image": "./images//Challenger.jpg"
+      "image": "./images//fat.gif"
     },
     {
       "id": 6,
-      "image": "./images//challenger1.jpg"
+      "image": "./images//feud.gif"
     },
     {
       "id": 7,
-      "image": "./images//cuba.jpg"
+      "image": "./images//flex.gif"
     },
     {
       "id": 8,
-      "image": "./images//Fiat.jpg"
+      "image": "./images//grandma.gif"
     },
     {
       "id": 9,
-      "image": "./images//FRS.jpg"
+      "image": "./images//mrbean.gif"
     },
     {
       "id": 10,
-      "image": "./images//gtr.jpg"
+      "image": "./images//skeptical.gif"
     },
     {
       "id": 11,
-      "image": "./images//mustang.jpg"
+      "image": "./images//skyy.gif"
     },
     {
       "id": 12,
-      "image": "./images//wrx.jpg"
+      "image": "./images//time.gif"
     }
   ]

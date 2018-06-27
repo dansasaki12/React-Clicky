@@ -10,7 +10,7 @@ import characters from "./characters.json";
 class App extends Component {
   state = {
     guessArray: [],
-    message: "Click a car to begin!",
+    message: "Click a Gif to begin!",
     score: 0,
     topScore: 0,
     shake: 0
@@ -27,7 +27,6 @@ class App extends Component {
         topScore: Math.max(this.state.score, this.state.topScore),
         guessArray: [],
         score: 0,
-        shake: 0.75      // Shake screen for 0.75 seconds
       })
       // Otherwise it was a good guess!
     } else {
